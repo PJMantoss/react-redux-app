@@ -35,4 +35,4 @@ const LeftBar = () => {
   )
 }
 
-export default LeftBar
+export default LeftBar;
