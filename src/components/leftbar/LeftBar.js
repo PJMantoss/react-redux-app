@@ -13,6 +13,7 @@ import {
     ShoppingBasketOutlinedIcon
 } from '@mui/icons-material';
 import MenuLink from '../menuLink/MenuLink';
+import './LeftBar.css'
 
 const LeftBar = () => {
   return (
