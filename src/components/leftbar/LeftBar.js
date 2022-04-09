@@ -7,11 +7,11 @@ import {
     HomeOutlinedIcon,
     ListOutlinedIcon,
     MovieCreationOutlinedIcon,
-
-
+    PhotoSizeSelectActualOutlinedIcon,
+    ScheduleOutlinedIcon
 } from '@mui/icons-material';
-import PhotoSizeSelectActualOutlinedIcon from '@mui/icons-material/PhotoSizeSelectActualOutlined';
-import ScheduleOutlinedIcon from '@mui/icons-material/ScheduleOutlined';
+import  from '@mui/icons-material/PhotoSizeSelectActualOutlined';
+import  from '@mui/icons-material/ScheduleOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import ShoppingBasketOutlinedIcon from '@mui/icons-material/ShoppingBasketOutlined';
 
