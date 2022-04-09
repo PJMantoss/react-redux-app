@@ -1,6 +1,6 @@
 import React from 'react'
 
-const MenuLink = () => {
+const MenuLink = ({ icon, text }) => {
   return (
     <div className='menulink'>
         <span className='menuLinkText'></span>
