@@ -3,7 +3,9 @@ import {
     ExitToAppOutlinedIcon, 
     FileCopyOutlinedIcon, 
     GroupOutlinedIcon,
-    HearingOutlinedIcon
+    HearingOutlinedIcon,
+    HomeOutlinedIcon,
+
 } from '@mui/icons-material';
 
 const LeftBar = () => {
