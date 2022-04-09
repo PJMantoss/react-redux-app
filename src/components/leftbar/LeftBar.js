@@ -23,8 +23,8 @@ const LeftBar = () => {
             <MenuLink icon={<ListOutlinedIcon />} text='Lists' />
             <MenuLink icon={<ShoppingBasketOutlinedIcon />} text='Products' />
             <MenuLink icon={<GroupOutlinedIcon />} text='Groups' />
-            <MenuLink icon={< />} text='' />
-            <MenuLink icon={< />} text='' />
+            <MenuLink icon={<FileCopyOutlinedIcon />} text='Pages' />
+            <MenuLink icon={<PhotoSizeSelectActualOutlinedIcon />} text='Photos' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
