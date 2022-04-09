@@ -20,6 +20,10 @@ const LeftBar = () => {
     <div className='leftbar'>
         <div className='leftbarWrapper'>
             <MenuLink icon={} text='' />
+            <MenuLink icon={} text='' />
+            <MenuLink icon={} text='' />
+            <MenuLink icon={} text='' />
+            <MenuLink icon={} text='' />
         </div>
     </div>
   )
