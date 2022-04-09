@@ -21,7 +21,7 @@ const LeftBar = () => {
         <div className='leftbarWrapper'>
             <MenuLink icon={<HomeOutlinedIcon />} text='Homepage' />
             <MenuLink icon={<ListOutlinedIcon />} text='Lists' />
-            <MenuLink icon={<ShoppingBasketOutlinedIcon />} text='products' />
+            <MenuLink icon={<ShoppingBasketOutlinedIcon />} text='Products' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
