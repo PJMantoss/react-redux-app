@@ -1,5 +1,5 @@
 import React from 'react';
-import './MenuLink.css'
+import './MenuLink.css';
 
 const MenuLink = ({ icon, text }) => {
   return (
