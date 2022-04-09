@@ -6,12 +6,12 @@ import {
     HearingOutlinedIcon,
     HomeOutlinedIcon,
     ListOutlinedIcon,
-    MovieCreationOutlinedIcon,
-    PhotoSizeSelectActualOutlinedIcon,
-    ScheduleOutlinedIcon,
-    SettingsOutlinedIcon,
-    ShoppingBasketOutlinedIcon
 } from '@mui/icons-material';
+import HearingOutlinedIcon from '@mui/icons-material/HearingOutlined';
+import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
+import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
+import MovieCreationOutlinedIcon from '@mui/icons-material/MovieCreationOutlined';
+import PhotoSizeSelectActualOutlinedIcon from '@mui/icons-material/PhotoSizeSelectActualOutlined';
 import ScheduleOutlinedIcon from '@mui/icons-material/ScheduleOutlined';
 import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
 import ShoppingBasketOutlinedIcon from '@mui/icons-material/ShoppingBasketOutlined';
