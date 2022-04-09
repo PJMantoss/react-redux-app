@@ -2,7 +2,8 @@ import React from 'react';
 import {
     ExitToAppOutlinedIcon, 
     FileCopyOutlinedIcon, 
-    GroupOutlinedIcon
+    GroupOutlinedIcon,
+    HearingOutlinedIcon
 } from '@mui/icons-material';
 
 const LeftBar = () => {
