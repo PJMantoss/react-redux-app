@@ -18,7 +18,9 @@ import './LeftBar.css'
 const LeftBar = () => {
   return (
     <div className='leftbar'>
-        <div className='leftbarWrapper'></div>
+        <div className='leftbarWrapper'>
+            <MenuLink icon={} text='' />
+        </div>
     </div>
   )
 }
