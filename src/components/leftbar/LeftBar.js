@@ -19,7 +19,7 @@ const LeftBar = () => {
   return (
     <div className='leftbar'>
         <div className='leftbarWrapper'>
-            <MenuLink icon={} text='' />
+            <MenuLink icon={<HomeOutlinedIcon />} text='Homepage' />
             <MenuLink icon={} text='' />
             <MenuLink icon={} text='' />
             <MenuLink icon={} text='' />
