@@ -12,6 +12,9 @@ import {
     SettingsOutlinedIcon,
     ShoppingBasketOutlinedIcon
 } from '@mui/icons-material';
+import ScheduleOutlinedIcon from '@mui/icons-material/ScheduleOutlined';
+import SettingsOutlinedIcon from '@mui/icons-material/SettingsOutlined';
+import ShoppingBasketOutlinedIcon from '@mui/icons-material/ShoppingBasketOutlined';
 import MenuLink from '../menuLink/MenuLink';
 import './LeftBar.css'
 
