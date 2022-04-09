@@ -1,6 +1,5 @@
 import React from 'react';
-import ExitToAppOutlinedIcon from '@mui/icons-material/ExitToAppOutlined';
-import FileCopyOutlinedIcon from '@mui/icons-material/FileCopyOutlined';
+import {ExitToAppOutlinedIcon, FileCopyOutlinedIcon} from '@mui/icons-material';
 
 const LeftBar = () => {
   return (
