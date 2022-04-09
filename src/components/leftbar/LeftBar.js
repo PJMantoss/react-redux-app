@@ -25,11 +25,11 @@ const LeftBar = () => {
             <MenuLink icon={<GroupOutlinedIcon />} text='Groups' />
             <MenuLink icon={<FileCopyOutlinedIcon />} text='Pages' />
             <MenuLink icon={<PhotoSizeSelectActualOutlinedIcon />} text='Photos' />
-            <MenuLink icon={< />} text='' />
-            <MenuLink icon={< />} text='' />
-            <MenuLink icon={< />} text='' />
-            <MenuLink icon={< />} text='' />
-            <MenuLink icon={< />} text='' />
+            <MenuLink icon={<MovieCreationOutlinedIcon />} text='Videos' />
+            <MenuLink icon={<ScheduleOutlinedIcon />} text='Schedule' />
+            <MenuLink icon={<HearingOutlinedIcon />} text='Wishlist' />
+            <MenuLink icon={<SettingsOutlinedIcon />} text='Settings' />
+            <MenuLink icon={<ExitToAppOutlinedIcon />} text='Logout' />
         </div>
     </div>
   )
