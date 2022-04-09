@@ -12,6 +12,7 @@ import {
     SettingsOutlinedIcon,
     ShoppingBasketOutlinedIcon
 } from '@mui/icons-material';
+import MenuLink from '../menuLink/MenuLink';
 
 const LeftBar = () => {
   return (
