@@ -2,8 +2,8 @@ import React from 'react'
 
 const MenuLink = () => {
   return (
-    <div className=''>
-        <span className=''></span>
+    <div className='menulink'>
+        <span className='menuLinkText'></span>
         <span className=''></span>
     </div>
   )
