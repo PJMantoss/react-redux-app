@@ -22,7 +22,7 @@ const LeftBar = () => {
             <MenuLink icon={<HomeOutlinedIcon />} text='Homepage' />
             <MenuLink icon={<ListOutlinedIcon />} text='Lists' />
             <MenuLink icon={<ShoppingBasketOutlinedIcon />} text='Products' />
-            <MenuLink icon={< />} text='' />
+            <MenuLink icon={<GroupOutlinedIcon />} text='Groups' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
             <MenuLink icon={< />} text='' />
