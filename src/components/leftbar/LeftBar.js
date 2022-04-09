@@ -1,12 +1,5 @@
 import React from 'react';
-import {
-    ExitToAppOutlinedIcon, 
-    FileCopyOutlinedIcon, 
-    GroupOutlinedIcon,
-    HearingOutlinedIcon,
-    HomeOutlinedIcon,
-    ListOutlinedIcon,
-} from '@mui/icons-material';
+import ExitToAppOutlinedIcon from '@mui/icons-material/ExitToAppOutlined';
 import FileCopyOutlinedIcon from '@mui/icons-material/FileCopyOutlined';
 import GroupOutlinedIcon from '@mui/icons-material/GroupOutlined';
 import HearingOutlinedIcon from '@mui/icons-material/HearingOutlined';
