@@ -6,6 +6,8 @@ import {
     HearingOutlinedIcon,
     HomeOutlinedIcon,
     ListOutlinedIcon,
+    MovieCreationOutlinedIcon,
+    
 
 } from '@mui/icons-material';
 
