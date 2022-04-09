@@ -3,7 +3,7 @@ import React from 'react'
 const MenuLink = ({ icon, text }) => {
   return (
     <div className='menulink'>
-        <span className='menuLinkText'> {} </span>
+        <span className='menuLinkText'> {text} </span>
         <span className='menuLinkTextName'>
             {}
         </span>
