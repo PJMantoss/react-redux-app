@@ -12,4 +12,4 @@ const MenuLink = ({ icon, text }) => {
   )
 }
 
-export default MenuLink
+export default MenuLink;
