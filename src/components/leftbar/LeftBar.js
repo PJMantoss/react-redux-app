@@ -7,6 +7,7 @@ import {
     HomeOutlinedIcon,
     ListOutlinedIcon,
 } from '@mui/icons-material';
+import GroupOutlinedIcon from '@mui/icons-material/GroupOutlined';
 import HearingOutlinedIcon from '@mui/icons-material/HearingOutlined';
 import HomeOutlinedIcon from '@mui/icons-material/HomeOutlined';
 import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
