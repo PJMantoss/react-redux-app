@@ -29,6 +29,7 @@ const LeftBar = () => {
             <MenuLink icon={} text='' />
             <MenuLink icon={} text='' />
             <MenuLink icon={} text='' />
+            <MenuLink icon={} text='' />
         </div>
     </div>
   )
