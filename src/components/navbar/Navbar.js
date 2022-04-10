@@ -14,7 +14,11 @@ const Navbar = () => {
             </div>
             <div className='navarCenter'>
                 <div className='search'>
-                    <input />
+                    <input 
+                        type={} 
+                        placeholder=''
+                        
+                    />
                 </div>
             </div>
         </div>
