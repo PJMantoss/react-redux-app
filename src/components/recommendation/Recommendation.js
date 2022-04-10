@@ -16,7 +16,7 @@ const Recommendation = ({ type }) => {
   return (
     <div className='recommendation'>
         <span className='rightTitle'> {title} </span>
-        <img src={img} alt='' className='rightImage' />
+        <img src={img} alt='' className='rightImg' />
     </div>
   )
 }
