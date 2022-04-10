@@ -1,8 +1,9 @@
 import React from 'react';
+import './Recommendation.css'
 
-const Recommendation = () => {
+const Recommendation = ({ type }) => {
   return (
-    <div>Recommendation</div>
+    <div className='recommendation'></div>
   )
 }
 
