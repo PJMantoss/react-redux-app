@@ -8,6 +8,7 @@ const Navbar = () => {
         <div className='navbarWrapper'>
             <div className='navbarLeft'>
                 <span className=''></span>
+                <span className=''></span>
             </div>
         </div>
     </div>
