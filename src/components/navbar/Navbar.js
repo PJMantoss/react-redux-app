@@ -10,7 +10,7 @@ const Navbar = () => {
                 <span className='logo'>Chapolmi</span>
                 <span className='navbarLink'>Home</span>
                 <span className='navbarLink'>About</span>
-                <span className='navbarLink'></span>
+                <span className='navbarLink'>Contact</span>
             </div>
         </div>
     </div>
