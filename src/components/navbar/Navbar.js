@@ -21,6 +21,7 @@ const Navbar = () => {
                     />
                 </div>
             </div>
+            <div className='navbarRight'></div>
         </div>
     </div>
   )
