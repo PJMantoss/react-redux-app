@@ -6,10 +6,10 @@ const Rightbar = () => {
   return (
     <div className='rightbar'>
         <div className='rightbarWrapper'>
-            <Recommendation type='' />
-            <Recommendation type='' />
-            <Recommendation type='' />
-            <button>
+            <Recommendation type='user' />
+            <Recommendation type='popular' />
+            <Recommendation type='editor' />
+            <button className='rightButton'>
                 See More
                 <ArrowDropDownIcon />
             </button>
