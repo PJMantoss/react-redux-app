@@ -22,7 +22,11 @@ const Navbar = () => {
                 </div>
             </div>
             <div className='navbarRight'>
-                <img src='' alt='' className='' />
+                <img 
+                    src='' 
+                    alt='' 
+                    className='' 
+                />
                 <span className=''></span>
                 <ArrowDropDownIcon />
             </div>
