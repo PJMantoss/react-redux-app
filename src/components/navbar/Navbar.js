@@ -23,11 +23,11 @@ const Navbar = () => {
             </div>
             <div className='navbarRight'>
                 <img 
-                    src='' 
+                    src='https://images.pexels.com/photos/3024627/pexels-photo-3024627.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' 
                     alt='' 
-                    className='' 
+                    className='avatar' 
                 />
-                <span className=''></span>
+                <span className='navbarName'></span>
                 <ArrowDropDownIcon />
             </div>
         </div>
