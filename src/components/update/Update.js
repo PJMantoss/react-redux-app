@@ -7,7 +7,13 @@ const Update = () => {
     const [email, setEmail] = useState('');
     
   return (
-    <div>Update</div>
+    <div className='update'>
+        <div className='updateWrapper'>
+            <h3 className='updateTitle'></h3>
+            <Warning />
+            <div className='updateContainer'></div>
+        </div>
+    </div>
   )
 }
 
