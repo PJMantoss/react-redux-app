@@ -15,7 +15,7 @@ const Navbar = () => {
             <div className='navarCenter'>
                 <div className='search'>
                     <input 
-                        type={} 
+                        type='text'
                         placeholder=''
                         className=''
                     />
