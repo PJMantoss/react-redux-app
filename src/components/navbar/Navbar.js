@@ -9,8 +9,8 @@ const Navbar = () => {
             <div className='navbarLeft'>
                 <span className='logo'></span>
                 <span className='navbarLink'></span>
-                <span className=''></span>
-                <span className=''></span>
+                <span className='navbarLink'></span>
+                <span className='navbarLink'></span>
             </div>
         </div>
     </div>
