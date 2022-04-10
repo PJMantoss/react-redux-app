@@ -21,7 +21,11 @@ const Navbar = () => {
                     />
                 </div>
             </div>
-            <div className='navbarRight'></div>
+            <div className='navbarRight'>
+                <img />
+                <span className=''></span>
+                <ArrowDropDownIcon />
+            </div>
         </div>
     </div>
   )
