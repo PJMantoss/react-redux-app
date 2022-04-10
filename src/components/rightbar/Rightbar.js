@@ -1,7 +1,7 @@
 import React from 'react';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import Recommendation from '../recommendation/Recommendation';
-import './Recommendation.css'
+import './Rightbar.css'
 
 const Rightbar = () => {
   return (
