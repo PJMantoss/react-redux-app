@@ -8,8 +8,8 @@ const Navbar = () => {
         <div className='navbarWrapper'>
             <div className='navbarLeft'>
                 <span className='logo'>Chapolmi</span>
-                <span className='navbarLink'></span>
-                <span className='navbarLink'></span>
+                <span className='navbarLink'>Home</span>
+                <span className='navbarLink'>About</span>
                 <span className='navbarLink'></span>
             </div>
         </div>
