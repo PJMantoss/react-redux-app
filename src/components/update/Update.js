@@ -13,7 +13,12 @@ const Update = () => {
             <Warning />
             <button className='delete'>Delete Your Account</button>
             <div className='updateContainer'>
-                <form></form>
+                <form>
+                    <div className='formItem'>
+                        <label></label>
+                        <div className='profilePic'></div>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
