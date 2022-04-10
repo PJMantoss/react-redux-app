@@ -17,8 +17,12 @@ const Update = () => {
                     <div className='formItem'>
                         <label>Profile Picture</label>
                         <div className='profilePic'>
-                            <img />
-                            <span></span>
+                            <img 
+                                src='https://images.pexels.com/photos/3024627/pexels-photo-3024627.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500' 
+                                alt='' 
+                                className='avatar' 
+                            />
+                            <span className='change'></span>
                         </div>
                     </div>
 
