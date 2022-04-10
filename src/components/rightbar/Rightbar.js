@@ -4,7 +4,9 @@ import Recommendation from '../recommendation/Recommendation';
 
 const Rightbar = () => {
   return (
-    <div>Rightbar</div>
+    <div className='rightbar'>
+        <div className='rightbarWrapper'></div>
+    </div>
   )
 }
 
