@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 
 const Navbar = () => {
   return (
