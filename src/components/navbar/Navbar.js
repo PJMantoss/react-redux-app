@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='navbar'>
         <div className='navbarWrapper'>
             <div className='navbarLeft'>
-                <span className=''></span>
+                <span className='logo'></span>
                 <span className=''></span>
                 <span className=''></span>
                 <span className=''></span>
