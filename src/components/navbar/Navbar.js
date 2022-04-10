@@ -14,7 +14,7 @@ const Navbar = () => {
             </div>
             <div className='navarCenter'>
                 <div className='search'>
-                    
+                    <input />
                 </div>
             </div>
         </div>
