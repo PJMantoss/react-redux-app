@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Warning from '../warning/Warning';
-import './Warning.css';
+import './Update.css';
 
 const Update = () => {
     const [name, setName] = useState('');
