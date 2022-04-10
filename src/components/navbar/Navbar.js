@@ -27,7 +27,7 @@ const Navbar = () => {
                     alt='' 
                     className='avatar' 
                 />
-                <span className='navbarName'></span>
+                <span className='navbarName'>Joel</span>
                 <ArrowDropDownIcon />
             </div>
         </div>
