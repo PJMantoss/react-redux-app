@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import './Warning.css';
 
 const Warning = () => {
   return (
-    <div>Warning</div>
+    <div className='warning'></div>
   )
 }
 
