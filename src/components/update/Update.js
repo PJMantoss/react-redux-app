@@ -29,27 +29,26 @@ const Update = () => {
                     <div className='formItem'>
                         <label>Username</label>
                         <input 
-                            type='' 
-                            placeholder='' 
-                            className='' 
+                            type='text' 
+                            placeholder='Joel' 
+                            className='formInput' 
                         />
                     </div>
 
                     <div className='formItem'>
                         <label>E-Mail</label>
                         <input 
-                            type='' 
-                            placeholder='' 
-                            className='' 
+                            type='text' 
+                            placeholder='joel@gmail.com' 
+                            className='formInput' 
                         />
                     </div>
 
                     <div className='formItem'>
                         <label>Password</label>
                         <input 
-                            type='' 
-                            placeholder='' 
-                            className='' 
+                            type='password' 
+                            className='formInput' 
                         />
                     </div>
                 </form>
