@@ -12,7 +12,7 @@ const Navbar = () => {
                 <span className='navbarLink'>About</span>
                 <span className='navbarLink'>Contact</span>
             </div>
-            <div className='navarCenter'>
+            <div className='navbarCenter'>
                 <div className='search'>
                     <input 
                         type='text'
