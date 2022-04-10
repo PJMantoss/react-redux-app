@@ -11,8 +11,10 @@ const Update = () => {
         <div className='updateWrapper'>
             <h3 className='updateTitle'>Update Your Account</h3>
             <Warning />
-            <button>Delete Your Account</button>
-            <div className='updateContainer'></div>
+            <button className='delete'>Delete Your Account</button>
+            <div className='updateContainer'>
+                <form></form>
+            </div>
         </div>
     </div>
   )
