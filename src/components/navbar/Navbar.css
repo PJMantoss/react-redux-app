@@ -3,3 +3,11 @@
     height: 50px;
     border-bottom: 1px solid lightgray;
   }
+
+.navbarWrapper {
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
