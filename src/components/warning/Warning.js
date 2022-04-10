@@ -3,7 +3,10 @@ import './Warning.css';
 
 const Warning = () => {
   return (
-    <div className='warning'></div>
+    <div className='warning'>
+        Deleting account cannot be undone <b>Joel</b>! You should confirm your
+        password to delete your account.
+    </div>
   )
 }
 
