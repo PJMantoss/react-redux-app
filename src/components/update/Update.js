@@ -3,8 +3,8 @@ import Warning from '../warning/Warning';
 import './Warning.css';
 
 const Update = () => {
-    const [] = useState('');
-    const [] = useState('');
+    const [name, setName] = useState('');
+    const [email, setEmail] = useState('');
     
   return (
     <div>Update</div>
