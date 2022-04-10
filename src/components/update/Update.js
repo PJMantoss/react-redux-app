@@ -51,6 +51,8 @@ const Update = () => {
                             className='formInput' 
                         />
                     </div>
+
+                    <button className='updateButton'>Update</button>
                 </form>
             </div>
         </div>
