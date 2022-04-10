@@ -22,13 +22,35 @@ const Update = () => {
                                 alt='' 
                                 className='avatar' 
                             />
-                            <span className='change'></span>
+                            <span className='change'>Change</span>
                         </div>
                     </div>
 
                     <div className='formItem'>
-                        <label></label>
-                        <div className='profilePic'></div>
+                        <label>Username</label>
+                        <input 
+                            type='' 
+                            placeholder='' 
+                            className='' 
+                        />
+                    </div>
+
+                    <div className='formItem'>
+                        <label>E-Mail</label>
+                        <input 
+                            type='' 
+                            placeholder='' 
+                            className='' 
+                        />
+                    </div>
+
+                    <div className='formItem'>
+                        <label>Password</label>
+                        <input 
+                            type='' 
+                            placeholder='' 
+                            className='' 
+                        />
                     </div>
                 </form>
             </div>
