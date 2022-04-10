@@ -22,3 +22,11 @@
 .navbarLink {
     margin-left: 20px;
 }
+
+.search {
+    width: 400px;
+    height: 24px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    display: flex;
+}  
