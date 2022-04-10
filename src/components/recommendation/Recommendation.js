@@ -14,7 +14,10 @@ const Recommendation = ({ type }) => {
             ? 'https://images.pexels.com/photos/5191390/pexels-photo-5191390.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500'
             : 'https://images.pexels.com/photos/2733659/pexels-photo-2733659.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500';
   return (
-    <div className='recommendation'></div>
+    <div className='recommendation'>
+        <span className='rightTitle'> {title} </span>
+        <img src={img} alt='' className='rightImage' />
+    </div>
   )
 }
 
