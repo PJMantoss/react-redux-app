@@ -17,7 +17,7 @@ const Navbar = () => {
                     <input 
                         type={} 
                         placeholder=''
-                        
+                        className=''
                     />
                 </div>
             </div>
