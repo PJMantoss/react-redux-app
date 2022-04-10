@@ -13,7 +13,9 @@ const Navbar = () => {
                 <span className='navbarLink'>Contact</span>
             </div>
             <div className='navarCenter'>
-                <div className=''></div>
+                <div className='search'>
+                    
+                </div>
             </div>
         </div>
     </div>
