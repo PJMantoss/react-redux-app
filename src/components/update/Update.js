@@ -15,6 +15,14 @@ const Update = () => {
             <div className='updateContainer'>
                 <form>
                     <div className='formItem'>
+                        <label>Profile Picture</label>
+                        <div className='profilePic'>
+                            <img />
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div className='formItem'>
                         <label></label>
                         <div className='profilePic'></div>
                     </div>
@@ -25,4 +33,4 @@ const Update = () => {
   )
 }
 
-export default Update
+export default Update;
