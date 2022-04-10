@@ -9,6 +9,8 @@ const Navbar = () => {
             <div className='navbarLeft'>
                 <span className=''></span>
                 <span className=''></span>
+                <span className=''></span>
+                <span className=''></span>
             </div>
         </div>
     </div>
