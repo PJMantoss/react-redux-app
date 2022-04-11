@@ -15,3 +15,5 @@ export const userSlice = createSlice({
     }
 
 });
+
+export const { update } = userSlice.actions;
