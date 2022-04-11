@@ -5,6 +5,8 @@ import Rightbar from './components/rightbar/Rightbar';
 import './App.css';
 
 function App() {
+  const [name, setName] = useState("joel";)
+
   return (
     <>
       <Navbar />
