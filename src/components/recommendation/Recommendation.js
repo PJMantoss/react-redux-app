@@ -4,7 +4,7 @@ import './Recommendation.css'
 const Recommendation = ({ type }) => {
     const title = type === 'user' 
            ? "Recommended for Joel" 
-           : title = 'popular'
+           : type = 'popular'
            ? "Popular on Chapolmi"
            : "Editor's Choice";
 
