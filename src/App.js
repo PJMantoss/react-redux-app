@@ -5,7 +5,7 @@ import Rightbar from './components/rightbar/Rightbar';
 import './App.css';
 
 function App() {
-  const [name, setName] = useState("joel";)
+  const [name, setName] = useState("joel");
 
   return (
     <>
