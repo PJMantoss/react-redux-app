@@ -42,6 +42,7 @@ const Update = () => {
                             type='text' 
                             placeholder='joel@gmail.com' 
                             className='formInput' 
+                            onChange={e => setEmail(e.target.value)}
                         />
                     </div>
 
