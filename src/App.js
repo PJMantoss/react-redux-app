@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <Navbar />
+      <Navbar name={name} />
       <div className='container'>
         <LeftBar />
         <Update />
