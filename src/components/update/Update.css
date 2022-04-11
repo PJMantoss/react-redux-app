@@ -52,3 +52,21 @@ form {
     display: flex;
     align-items: center;
 }
+
+.change{
+    margin-left: 10px;
+    font-weight: 500;
+    font-size: 13px;
+    color: teal;
+}
+
+.updateButton {
+    margin-top: 10px;
+    border: none;
+    padding: 5px  10px;
+    background-color: rgb(97, 161, 161);
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 500;
+}
