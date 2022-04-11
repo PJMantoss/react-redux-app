@@ -8,7 +8,9 @@ export const userSlice = createSlice({
     },
 
     reducers: {
-        update: (state, action) => {}
+        update: (state, action) => {
+            
+        }
     }
 
 });
