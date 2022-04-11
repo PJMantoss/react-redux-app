@@ -31,7 +31,8 @@ const Update = () => {
                         <input 
                             type='text' 
                             placeholder='Joel' 
-                            className='formInput' 
+                            className='formInput'
+                            onChange={e => setName(e.target.value)} 
                         />
                     </div>
 
