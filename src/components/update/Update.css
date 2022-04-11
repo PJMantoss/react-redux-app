@@ -46,3 +46,9 @@ form {
     padding: 5px;
     margin-top: 5px;
 }
+
+.profilePic{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
