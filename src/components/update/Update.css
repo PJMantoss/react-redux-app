@@ -16,4 +16,10 @@
     margin-top: 10px;
     border-radius: 10px;
     cursor: pointer;
-}  
+} 
+
+.updateTitle {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: 400;
+  }
