@@ -4,6 +4,6 @@ export const userSlice = createSlice({
     name: "user",
     initialState: {
         name: "joel",
-        email: ""
+        email: "joel@gmail.com"
     }
 });
