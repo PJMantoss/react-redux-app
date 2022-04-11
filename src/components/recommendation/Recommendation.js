@@ -6,7 +6,7 @@ const Recommendation = ({ type }) => {
   const name = useSelector(state => state.user.name);
 
     const title = type === 'user' 
-           ? "Recommended for" + name 
+           ? "Recommended for " + name 
            : type = 'popular'
            ? "Popular on Chapolmi"
            : "Editor's Choice";
