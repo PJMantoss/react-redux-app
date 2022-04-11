@@ -23,3 +23,10 @@
     margin-bottom: 20px;
     font-weight: 400;
 }
+
+.updateContainer {
+    display: flex;
+    margin-top: 20px;
+    border-top: 1px solid lightgray;
+    padding-top: 10px;
+  }
