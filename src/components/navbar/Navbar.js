@@ -1,8 +1,11 @@
 import React from 'react';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+import { useSelector } from 'react-redux';
 import './Navbar.css'
 
 const Navbar = ({ name }) => {
+    const name = useSelector();
+    
   return (
     <div className='navbar'>
         <div className='navbarWrapper'>
