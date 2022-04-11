@@ -5,7 +5,7 @@ import './Update.css';
 const Update = () => {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
-    
+    console.log(name, email)
   return (
     <div className='update'>
         <div className='updateWrapper'>
