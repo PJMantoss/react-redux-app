@@ -3,7 +3,7 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import { useSelector } from 'react-redux';
 import './Navbar.css'
 
-const Navbar = ({ name }) => {
+const Navbar = () => {
     const name = useSelector(state => state.user.name);
 
   return (
