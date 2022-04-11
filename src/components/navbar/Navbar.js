@@ -2,7 +2,7 @@ import React from 'react';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import './Navbar.css'
 
-const Navbar = () => {
+const Navbar = ({ name }) => {
   return (
     <div className='navbar'>
         <div className='navbarWrapper'>
