@@ -32,7 +32,7 @@ const Update = () => {
                         <label>Username</label>
                         <input 
                             type='text' 
-                            placeholder='Joel' 
+                            placeholder={user.name} 
                             className='formInput'
                             onChange={e => setName(e.target.value)} 
                         />
@@ -42,7 +42,7 @@ const Update = () => {
                         <label>E-Mail</label>
                         <input 
                             type='text' 
-                            placeholder='joel@gmail.com' 
+                            placeholder={user.email}  
                             className='formInput' 
                             onChange={e => setEmail(e.target.value)}
                         />
