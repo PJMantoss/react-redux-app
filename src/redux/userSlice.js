@@ -8,7 +8,7 @@ export const userSlice = createSlice({
     },
 
     reducers: {
-        update: () => {}
+        update: (state, action) => {}
     }
 
 });
