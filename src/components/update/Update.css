@@ -5,3 +5,15 @@
 .updateWrapper {
     padding: 20px;
 }
+
+.delete {
+    border: none;
+    padding: 5px;
+    font-size: 12px;
+    background-color: rgb(243, 129, 152);
+    color: white;
+    font-weight: 500;
+    margin-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}  
