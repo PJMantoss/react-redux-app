@@ -7,6 +7,8 @@ export const userSlice = createSlice({
         email: "joel@gmail.com"
     },
 
-    reducers: {}
+    reducers: {
+        update: ()
+    }
 
 });
