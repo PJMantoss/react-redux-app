@@ -25,7 +25,10 @@ const Update = () => {
         <div className='updateWrapper'>
             <h3 className='updateTitle'>Update Your Account</h3>
             <Warning />
-            <button className='delete'>Delete Your Account</button>
+            <button className='delete'
+            >
+                Delete Your Account
+            </button>
             <div className='updateContainer'>
                 <form>
                     <div className='formItem'>
