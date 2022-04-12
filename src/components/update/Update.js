@@ -9,6 +9,8 @@ const Update = () => {
     const user = useSelector(state => state.user);
     const dispatch = useDispatch();
 
+    const handleUpdate = e => {};
+
   return (
     <div className='update'>
         <div className='updateWrapper'>
