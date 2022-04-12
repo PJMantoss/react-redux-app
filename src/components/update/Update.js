@@ -27,6 +27,7 @@ const Update = () => {
             <Warning />
             <button 
                 className='delete'
+                onClick={}
             >
                 Delete Your Account
             </button>
