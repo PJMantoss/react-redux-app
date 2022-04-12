@@ -11,7 +11,7 @@ const Update = () => {
 
     const handleUpdate = e => {
         e.preventDefault();
-        dispatch(update())
+        dispatch(update({name, email}))
     };
 
   return (
