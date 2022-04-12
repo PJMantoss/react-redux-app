@@ -15,6 +15,11 @@ const Update = () => {
         dispatch(update({name, email}))
     };
 
+    const handleDelete = e => {
+        e.preventDefault();
+        dispatch(update({name, email}))
+    };
+
   return (
     <div className='update'>
         <div className='updateWrapper'>
