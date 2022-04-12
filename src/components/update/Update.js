@@ -17,7 +17,7 @@ const Update = () => {
 
     const handleDelete = e => {
         e.preventDefault();
-        dispatch(remove({name, email}))
+        dispatch(remove())
     };
 
   return (
