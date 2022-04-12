@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import Warning from '../warning/Warning';
-import { useSelector } from 'react-redux';
+import { useSelector, useDispatch } from 'react-redux';
 import './Update.css';
 
 const Update = () => {
     const [name, setName] = useState('');
     const [email, setEmail] = useState('');
     const user = useSelector(state => state.user);
+    const dispatch = useDispatch();
 
   return (
     <div className='update'>
