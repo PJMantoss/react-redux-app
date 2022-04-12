@@ -9,7 +9,9 @@ const Update = () => {
     const user = useSelector(state => state.user);
     const dispatch = useDispatch();
 
-    const handleUpdate = e => {};
+    const handleUpdate = e => {
+        e.preventDefault();
+    };
 
   return (
     <div className='update'>
