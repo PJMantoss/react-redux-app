@@ -61,7 +61,7 @@ const Update = () => {
 
                     <button 
                         className='updateButton'
-                        
+                        onClick={handleUpdate}
                     >
                         Update
                     </button>
