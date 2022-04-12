@@ -12,7 +12,9 @@ export const userSlice = createSlice({
             state.name = action.payload.name;
             state.email = action.payload.email;
         },
-        remove: (state) => {}
+        remove: (state) => {
+            state = null;
+        }
     }
 });
 
