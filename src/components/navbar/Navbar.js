@@ -6,6 +6,8 @@ import './Navbar.css'
 const Navbar = () => {
     const name = useSelector(state => state.user.name);
 
+    console.log("navbar re-rendered")
+
   return (
     <div className='navbar'>
         <div className='navbarWrapper'>
