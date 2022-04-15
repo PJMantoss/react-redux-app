@@ -1,6 +1,7 @@
 # React-Redux-App
 
-## Dependecies
+## Dependencies
+- 
 
 In the project directory, you can run:
 
