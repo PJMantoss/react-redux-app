@@ -12,7 +12,7 @@ const Update = () => {
 
     const handleUpdate = e => {
         e.preventDefault();
-        dispatch(update({name, email}));
+        dispatch(addHello({name, email}));
     };
 
     const handleDelete = e => {
