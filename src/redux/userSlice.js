@@ -14,7 +14,7 @@ export const userSlice = createSlice({
         },
         remove: (state) => (state = {}),
 
-        addHello: () => {}
+        addHello: (state, action) => {}
     }
 });
 
