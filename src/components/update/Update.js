@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Warning from '../warning/Warning';
 import { useSelector, useDispatch } from 'react-redux';
-import { update, remove, addHello: } from '../../redux/userSlice';
+import { update, remove, addHello } from '../../redux/userSlice';
 import './Update.css';
 
 const Update = () => {
